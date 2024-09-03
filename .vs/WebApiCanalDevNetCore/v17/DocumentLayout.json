@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|c:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1C2607-EB63-4659-8976-1E02BBDEF8A5}|WebApi\\WebApi.csproj|solutionrelative:webapi\\config\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T19:00:20.789Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "C:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T18:39:20.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ContextBase.cs",
               "DocumentMoniker": "C:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\WebApi\\Config\\ContextBase.cs",
               "RelativeDocumentMoniker": "WebApi\\Config\\ContextBase.cs",
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\dev\\repos\\github\\curso.api.net8.identity.csharp\\WebApi\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T18:38:51.83Z",
               "EditorCaption": ""

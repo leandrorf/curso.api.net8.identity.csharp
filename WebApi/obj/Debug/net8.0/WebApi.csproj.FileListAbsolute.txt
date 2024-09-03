@@ -144,3 +144,4 @@ C:\dev\repos\github\curso.api.net8.identity.csharp\WebApi\obj\Debug\net8.0\refin
 C:\dev\repos\github\curso.api.net8.identity.csharp\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\dev\repos\github\curso.api.net8.identity.csharp\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\dev\repos\github\curso.api.net8.identity.csharp\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\dev\repos\github\curso.api.net8.identity.csharp\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
