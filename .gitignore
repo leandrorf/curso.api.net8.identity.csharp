@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/WebApiCanalDevNetCore/FileContentIndex
+/.vs
+/WebApi/obj
+/WebApi/bin
